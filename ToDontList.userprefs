@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E0273F43-9D85-4794-ACC4-2360C9AA2DE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDontList/Views/Items/Details.cshtml">
+    <Files>
+      <File FileName="ToDontList/Controllers/Items/ItemsController.cs" Line="22" Column="10" />
+      <File FileName="ToDontList/Views/Items/Index.cshtml" Line="14" Column="86" />
+      <File FileName="ToDontList/Views/Items/Details.cshtml" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ToDontList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

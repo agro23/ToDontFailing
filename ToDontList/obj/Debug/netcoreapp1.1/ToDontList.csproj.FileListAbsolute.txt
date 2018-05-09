@@ -1,0 +1,10 @@
+/Users/Guest/Desktop/ToDontList/ToDontList/bin/Debug/netcoreapp1.1/ToDontList.deps.json
+/Users/Guest/Desktop/ToDontList/ToDontList/bin/Debug/netcoreapp1.1/ToDontList.runtimeconfig.json
+/Users/Guest/Desktop/ToDontList/ToDontList/bin/Debug/netcoreapp1.1/ToDontList.runtimeconfig.dev.json
+/Users/Guest/Desktop/ToDontList/ToDontList/obj/Debug/netcoreapp1.1/ToDontList.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/ToDontList/ToDontList/obj/Debug/netcoreapp1.1/ToDontList.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ToDontList/ToDontList/obj/Debug/netcoreapp1.1/ToDontList.AssemblyInfo.cs
+/Users/Guest/Desktop/ToDontList/ToDontList/bin/Debug/netcoreapp1.1/ToDontList.dll
+/Users/Guest/Desktop/ToDontList/ToDontList/bin/Debug/netcoreapp1.1/ToDontList.pdb
+/Users/Guest/Desktop/ToDontList/ToDontList/obj/Debug/netcoreapp1.1/ToDontList.dll
+/Users/Guest/Desktop/ToDontList/ToDontList/obj/Debug/netcoreapp1.1/ToDontList.pdb
