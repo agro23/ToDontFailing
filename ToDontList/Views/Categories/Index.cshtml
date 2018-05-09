@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ToDontList.Models.Category>
+
+<html>
+<head>
+    <title>To Don't List</title>
+</head>
+<body>
+  <h2>To Don't List</h2>
+  <hr />
+  <h4>@Html.DisplayNameFor(model => model.Description)</h4>
+  <ul>
+    @foreach(var listCategory in Model)
+    {
+        <li>@Html.DisplayFor(modelCategory => listCategory.Description) | @Html.ActionLink("Details", "Details", new { id = listCategory.CategoryId }) | @Html.ActionLink("Edit", "Edit", new { id = listCategory.CategoryId }) | @Html.ActionLink("Delete", "Delete", new { id = listCategory.CategoryId })</li>
+    }
+  </ul>
+  <p>@Html.ActionLink("Add new category", "Create")</p>
+</body>
+</html> 

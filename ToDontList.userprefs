@@ -1,9 +1,23 @@
 ﻿<Properties StartupConfiguration="{E0273F43-9D85-4794-ACC4-2360C9AA2DE1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDontList/Views/Items/Details.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDontList/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="ToDontList/Controllers/Items/ItemsController.cs" Line="22" Column="10" />
-      <File FileName="ToDontList/Views/Items/Index.cshtml" Line="14" Column="86" />
+      <File FileName="ToDontList/Controllers/Items/ItemsController.cs" Line="44" Column="1" />
+      <File FileName="ToDontList/Views/Items/Index.cshtml" Line="7" Column="11" />
       <File FileName="ToDontList/Views/Items/Details.cshtml" Line="14" Column="1" />
+      <File FileName="ToDontList/Views/Items/Create.cshtml" Line="23" Column="8" />
+      <File FileName="ToDontList/Views/Items/Edit.cshtml" Line="21" Column="39" />
+      <File FileName="ToDontList/Views/Items/Delete.cshtml" Line="18" Column="1" />
+      <File FileName="ToDontList/Models/ToDontListDbContext.cs" Line="14" Column="2" />
+      <File FileName="ToDontList/Models/Category.cs" Line="11" Column="10" />
+      <File FileName="ToDontList/Models/Items.cs" Line="13" Column="55" />
+      <File FileName="ToDontList/Views/Categories/Index.cshtml" Line="19" Column="9" />
+      <File FileName="ToDontList/Views/Categories/Delete.cshtml" Line="7" Column="9" />
+      <File FileName="ToDontList/Controllers/Categories/CategoriesController.cs" Line="24" Column="2" />
+      <File FileName="ToDontList/Views/Categories/Create.cshtml" Line="13" Column="51" />
+      <File FileName="ToDontList/Views/Categories/Details.cshtml" Line="11" Column="37" />
+      <File FileName="ToDontList/Views/Categories/Edit.cshtml" Line="22" Column="5" />
+      <File FileName="ToDontList/Controllers/Home/HomeController.cs" Line="18" Column="6" />
+      <File FileName="ToDontList/Views/Home/Index.cshtml" Line="11" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

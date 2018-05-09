@@ -13,6 +13,8 @@
     <Folder Include="Views\Items\" />
     <Folder Include="Views\Home\" />
     <Folder Include="Controllers\Items\" />
+    <Folder Include="Views\Categories\" />
+    <Folder Include="Controllers\Categories\" />
   </ItemGroup>
 
   <ItemGroup>
